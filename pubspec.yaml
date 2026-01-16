@@ -1,0 +1,47 @@
+name: ruyalar_sor
+description: Rüyalar Sor - Flutter AI Dream App
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase (Functions YOK)
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.4.0
+
+
+  # HTTP (OpenAI direct çağrı için)
+  http: ^1.2.2
+
+  # Utils
+  intl: ^0.19.0
+  table_calendar: ^3.1.3
+  speech_to_text: ^7.3.0
+  permission_handler: ^12.0.1
+  firebase_storage: ^12.4.10
+
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#1A1F3C"
+  adaptive_icon_foreground: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
