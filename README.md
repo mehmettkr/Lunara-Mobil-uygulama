@@ -1,7 +1,7 @@
 # Lunara-Mobil-uygulama
 Flutter ile mobil uygulama
 
-Youtube link:
+Youtube link: youtube.com/watch?v=SiRPLft5su8&feature=youtu.be
 
 1-Projenin Amacı
 Lunara, kullanıcıların gördükleri rüyaları kaydedebildiği, yapay zekâ ile yorumlatabildiği, rüyalarını görselleştirebildiği ve arkadaşlarıyla güvenli şekilde paylaşabildiği veritabanı destekli bir mobil uygulamadır.
