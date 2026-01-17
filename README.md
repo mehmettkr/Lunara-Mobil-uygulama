@@ -1,7 +1,6 @@
 # Lunara-Mobil-uygulama
 Flutter ile mobil uygulama
 
-Youtube link:
 Youtube link: youtube.com/watch?v=SiRPLft5su8&feature=youtu.be
 
 1-Projenin Amacı
@@ -45,3 +44,4 @@ Yapay zekâ destekli rüya yorumlama
 AI görselleştirme
 Takvim + istatistik
 Arkadaş ekleme ve gizli paylaşım
+
