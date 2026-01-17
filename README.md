@@ -43,5 +43,7 @@ Lunara;
 Yapay zekâ destekli rüya yorumlama
 AI görselleştirme
 Takvim + istatistik
-Arkadaş ekleme ve gizli paylaşım
+Arkadaş ekleme ve gizli paylaşım 
+modern rüya anı uygulamsıdır
+
 
